@@ -1,5 +1,5 @@
 # PyTorchWindowsBinary
-Precompiled binaries for PyTorch with CUDA for Python 3.5 on Windows x64
+Precompiled binaries for PyTorch with CUDA for Python 3.5 and Python 3.6 on Windows x64
 
 Install via
 
